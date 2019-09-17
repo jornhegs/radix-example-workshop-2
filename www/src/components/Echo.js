@@ -16,7 +16,7 @@ const Echo = (props) => {
     <p>Radix Environment: <b>{result.RADIX_ENVIRONMENT}</b></p>
     <p>Radix Host name: <b>{result.HOSTNAME}</b></p>
     <p>Radix Host platform: <b>{result.HOSTPLATFORM}</b></p>
-    <p>Test</p>
+    <p>Test1</p>
   </div>
 }
 
