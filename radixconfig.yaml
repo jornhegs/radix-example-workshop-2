@@ -27,7 +27,6 @@ spec:
           replicas: 1
     - name: echo
       src: ./echo
-      publicPort: http
       ports:
        - name: http
          port: 3001
